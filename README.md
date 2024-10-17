@@ -3,8 +3,10 @@
 
 I'm a **Software Engineering student** at the University of Technology Sydney passionate about **Cybersecurity** and **Software Development**. I'm diving deep into **Capture the Flag (CTF)** challenges, honing my problem-solving skills, and learning more about how systems work at a fundamental level.
 
+### 📫 How to reach me
 
-- 📫 You can reach me at michael.basangan@student.uts.edu.au
+You can reach me via email at **[michael.basangan@student.uts.edu.au](mailto:michael.basangan@student.uts.edu.au)**.
+
 
 ### 🛠️ Tech Stack
 
@@ -15,6 +17,9 @@ Here’s a glimpse of the tools and technologies I’m using:
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/<Michaelreedbas>?theme=light&font=baloo&ext=heatmap)
 
 ### 📈 GitHub Stats
 
