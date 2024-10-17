@@ -10,10 +10,15 @@ I'm a **Software Engineering student** at the University of Technology Sydney pa
 
 Here’s a glimpse of the tools and technologies I’m using:
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- **Development Tools**: ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat) ![CLion](https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=flat)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-- **Tools**: ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Intellij](https://www.google.com/imgres?q=intellij%20icon&imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fintellij-idea-icon-2048x2048-hsyna1mi.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F27526%2Fintellij-idea&docid=M8GO8I74mOiqIM&tbnid=i-d63teFpieBmM&vet=12ahUKEwjVzuPCzJSJAxU73TQHHVqfKRwQM3oECB0QAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjVzuPCzJSJAxU73TQHHVqfKRwQM3oECB0QAA)
+
+---
+
+### 📈 GitHub Stats
+
+![Reetabass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reetabass&show_icons=true&theme=radical)
 
 
 
