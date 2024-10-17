@@ -19,7 +19,7 @@ Here’s a glimpse of the tools and technologies I’m using:
 ---
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<Michaelreedbas>?theme=light&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Michaelreedbas?theme=dark&font=Passero%20One)
 
 ### 📈 GitHub Stats
 
