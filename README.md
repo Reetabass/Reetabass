@@ -23,7 +23,7 @@ Here’s a glimpse of the tools and technologies I’m using:
 
 ### 📈 GitHub Stats
 
-![Reetabass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reetabass&show_icons=true&theme=radical)
+![Reetabass's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Reetabass&show_icons=true&count_private=true&theme=radical)
 
 
 
