@@ -21,12 +21,6 @@ Here’s a glimpse of the tools and technologies I’m using:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Michaelreedbas?theme=dark&font=Passero%20One)
 
-### 📈 GitHub Stats
-
-![Reetabass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reetabass&show_icons=true&count_private=true&theme=radical)
-
-
-
 
 <!---
 Reetabass/Reetabass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
