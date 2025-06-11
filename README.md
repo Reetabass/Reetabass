@@ -1,26 +1,71 @@
 # Hello! I’m @Reetabass!
-### Software Engineering Student | UTS | CTF Enthusiast
+### Embedded Systems | Software Engineering Student | UTS
 
-I'm a **Software Engineering student** at the University of Technology Sydney passionate about **Cybersecurity** and **Software Development**. I'm diving deep into **Capture the Flag (CTF)** challenges, honing my problem-solving skills, and learning more about how systems work at a fundamental level.
+I'm a **Software Engineering student** at the University of Technology Sydney, specializing in **Embedded Systems**, **Low-level Programming**, and **Software Development**. I build real-world embedded projects using AVR microcontrollers, ESP32s, CAN Bus, Linux networking, and integrate hardware and software for full system design. 
+
+I also have experience with **Cybersecurity fundamentals**, **full-stack web development**, and I love diving into how systems work from hardware registers all the way up to APIs.
+
+---
 
 ### 📫 How to reach me
 
 You can reach me via email at **[michael.basangan@student.uts.edu.au](mailto:michael.basangan@student.uts.edu.au)**.
 
+---
 
 ### 🛠️ Tech Stack
 
-Here’s a glimpse of the tools and technologies I’m using:
+Here’s a snapshot of the tools and technologies I work with:
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-- **Development Tools**: ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat) ![CLion](https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=flat)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- **Languages**: 
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+
+- **Embedded & Hardware**:
+  ![AVR](https://img.shields.io/badge/-AVR-000000?logo=atmel&logoColor=white&style=flat)
+  ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat)
+  ![I2C](https://img.shields.io/badge/-I2C-007ACC?style=flat)
+  ![SPI](https://img.shields.io/badge/-SPI-FFA500?style=flat)
+  ![CAN Bus](https://img.shields.io/badge/-CAN--Bus-007396?style=flat)
+
+- **Development Tools**: 
+  ![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF6600?logo=platformio&logoColor=white&style=flat)
+  ![CLion](https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=flat)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+- **Web & Backend**:
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+  ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
+
+- **Version Control**: 
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
+
+### 🔧 Current Focus Areas
+
+- Real-time Embedded System Design (bare-metal AVR)
+- Embedded Communication Protocols (I2C, SPI, CAN Bus)
+- Sensor Integration (Ultrasonic, ADC, PWM control)
+- Linux Networking (Packet Sniffers, Protocol Analysis)
+- Full-stack projects (FastAPI, React, SQL)
+- Embedded Security Concepts
+
+---
+
 ### 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Michaelreedbas?theme=dark&font=Passero%20One)
 
+---
 
 <!---
 Reetabass/Reetabass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
