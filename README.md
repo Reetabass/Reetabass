@@ -7,7 +7,7 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 - 📧 michael.basangan@student.uts.edu.au  
 - 🔗 [LinkedIn](https://linkedin.com/in/micheelreedbas)  
@@ -15,7 +15,7 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ---
 
-### 🔧 Current Focus Areas
+### Current Focus Areas
 
 - Real-Time Embedded System Design (bare-metal AVR)
 - Communication Protocols (I2C, SPI, CAN Bus)
@@ -27,7 +27,7 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages  
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
@@ -69,7 +69,7 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **Traffic Light Controller (AVR C):** Multi-mode real-time system with ADC light sensing, PWM lights, sonar pedestrian detection, and USART debugging.
 - **Custom STL-Compatible HashSet (C++):** Designed full iterator-safe hash table with rehashing and STL interface.
@@ -79,7 +79,7 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ---
 
-### 📊 LeetCode Stats
+### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Michaelreedbas?theme=dark&font=Passero%20One)
 
