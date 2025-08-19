@@ -9,9 +9,8 @@ My focus is on building real-world microcontroller projects that interface hardw
 
 ### How to reach me
 
-- 📧 michael.basangan@student.uts.edu.au  
-- 🔗 [LinkedIn](https://linkedin.com/in/micheelreedbas)  
-- 🔗 [GitHub](https://github.com/Reetabass)
+  michael.basangan@student.uts.edu.au  
+  [LinkedIn](https://linkedin.com/in/micheelreedbas)  
 
 ---
 
@@ -63,11 +62,6 @@ My focus is on building real-world microcontroller projects that interface hardw
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-#### Cybersecurity (Foundation Experience)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)
-![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-FF0000?style=flat)
-
----
 
 ### Featured Projects
 
@@ -76,12 +70,6 @@ My focus is on building real-world microcontroller projects that interface hardw
 - **Linux Packet Sniffer (C/libpcap):** Captures and parses live network traffic; filters TCP/UDP layers.
 - **Smart Watering System (ESP32 C++):** Sensor-based irrigation system with ADC moisture sensing, timed actuation, and ESP telemetry.
 - **CAN Bus Communication Framework (AVR/C):** Lightweight CAN protocol parser with MCP2515 driver integration for real-time MCU communication.
-
----
-
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Michaelreedbas?theme=dark&font=Passero%20One)
 
 ---
 
