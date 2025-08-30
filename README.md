@@ -69,7 +69,6 @@ My focus is on building real-world microcontroller projects that interface hardw
 - **Custom STL-Compatible HashSet (C++):** Designed full iterator-safe hash table with rehashing and STL interface.
 - **Linux Packet Sniffer (C/libpcap):** Captures and parses live network traffic; filters TCP/UDP layers.
 - **Smart Watering System (ESP32 C++):** Sensor-based irrigation system with ADC moisture sensing, timed actuation, and ESP telemetry.
-- **CAN Bus Communication Framework (AVR/C):** Lightweight CAN protocol parser with MCP2515 driver integration for real-time MCU communication.
 
 ---
 
