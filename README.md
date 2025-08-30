@@ -2,9 +2,6 @@
 ### Embedded Systems | Software Engineering | UTS
 
 I'm a **Software Engineering student** at the University of Technology Sydney, specializing in **Embedded Systems**, **Low-Level Programming**, and **Software Development**. 
-
-My focus is on building real-world microcontroller projects that interface hardware and software together using C, C++, and modern development tools. I enjoy working close to the hardware layer: designing real-time systems, building protocol implementations, and exploring Linux-based networking tools. My long-term goal is to contribute to low-level system development and Linux kernel-level work.
-
 ---
 
 ### How to reach me
@@ -17,11 +14,11 @@ My focus is on building real-world microcontroller projects that interface hardw
 ### Current Focus Areas
 
 - Real-Time Embedded System Design (bare-metal AVR)
+-  Low-Power IoT Control Systems (ESP32)
 - Communication Protocols (I2C, SPI, CAN Bus)
 - Sensor Integration (Sonar, ADC, PWM control)
 - Linux Networking (Packet Sniffers, Protocol Analysis)
 - C++ STL-like container design (memory and iterator management)
-- Low-Power IoT Control Systems (ESP32)
 - Full-stack Web Development (FastAPI, React, PostgreSQL, AWS)
 
 ---
