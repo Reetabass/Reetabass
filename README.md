@@ -1,7 +1,7 @@
 # Hello! I’m @Reetabass!
 ### Embedded Systems | Software Engineering | UTS
 
-I'm a **Software Engineering student** at the University of Technology Sydney, specializing in **Embedded Systems**, **Low-Level Programming**, and **Software Development**. 
+I'm a **Software Engineering student** at the University of Technology Sydney, specializing in **Embedded Systems**.
 ---
 
 ### How to reach me
